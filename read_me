@@ -1,0 +1,13 @@
+Telikos Compiler
+Melh: Grhgorhs Fekas (Aem:1045) kai Xrysh Metallidou (Aem:678)
+Euxaristoume polu gia thn upodeiksh sth LM: LISTFUNC.
+ta arxeia eisodou trexoun xwris kanena apolutws provlhma.
+
+entolh gia thn dhmourgia ektelesimou:
+sh compileb.sh
+
+run:
+./Compiler <arxeio_eisodou>
+
+
+kalo xeimwna.
